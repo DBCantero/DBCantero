@@ -21,7 +21,7 @@
       <sub><b>C#</b></sub>
     </td>
     <td align="center" width="140">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original.svg" height="80" alt=".NET" />
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnetcore/dotnetcore-original.svg" height="80" alt=".NET" />
       <br />
       <sub><b>.NET</b></sub>
     </td>
