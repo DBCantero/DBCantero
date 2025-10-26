@@ -6,7 +6,7 @@
   />
 </p>
 
-<h1 align="center">Backend & Data — SQL Server • C# (.NET)</h1>
+<h1 align="center">Backend & Data — SQL Server • C# (.NET) • Python</h1>
 <p align="center">Building reliable APIs and high-performance data solutions.</p>
 
 ---
@@ -30,6 +30,11 @@
       <br />
       <sub><b>SQL Server</b></sub>
     </td>
+    <td align="center" width="140">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" height="80" alt="Python" />
+      <br />
+      <sub><b>Python</b></sub>
+    </td>
   </tr>
 </table>
 
@@ -37,7 +42,7 @@
 
 ## About me (EN)
 
-I'm a **Backend & Data** developer specialized in **SQL Server** and **C# (.NET)**.  
+I'm a **Backend & Data** developer specialized in **SQL Server**, **C# (.NET)** and **Python**.  
 I build **scalable APIs**, **reliable integrations**, and **high-performance data layers** (indexing, query tuning, execution plans, profiling, observability).
 
 - 🔭 Working as **Backend Developer (Data-oriented)**
