@@ -21,7 +21,7 @@
       <sub><b>C#</b></sub>
     </td>
     <td align="center" width="140">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnetcore/dotnetcore-original.svg" height="80" alt=".NET" />
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original.svg" height="80" alt=".NET" />
       <br />
       <sub><b>.NET</b></sub>
     </td>
@@ -33,13 +33,11 @@
   </tr>
 </table>
 
-
-
 ---
 
 ## About me (EN)
 
-I’m a **Backend & Data** developer specialized in **SQL Server** and **C# (.NET)**.  
+I'm a **Backend & Data** developer specialized in **SQL Server** and **C# (.NET)**.  
 I build **scalable APIs**, **reliable integrations**, and **high-performance data layers** (indexing, query tuning, execution plans, profiling, observability).
 
 - 🔭 Working as **Backend Developer (Data-oriented)**
@@ -52,4 +50,4 @@ I build **scalable APIs**, **reliable integrations**, and **high-performance dat
 
 - ✉️ Email: suporte@alefcantero.tech 
 - 💼 Instagram: https://instagram.com/alefcantero  
-- 🌐 Portfolio: https://alefcantero.tech 
+- 🌐 Portfolio: https://alefcantero.tech
