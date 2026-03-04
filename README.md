@@ -37,15 +37,25 @@ I build **data-driven solutions**, **reliable integrations**, and **high-perform
 
 <table align="center" border="0">
   <tr>
-    <td align="center" width="160">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" height="80" alt="Python" />
+    <td align="center" width="140">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" height="70" alt="Python" />
       <br />
       <sub><b>Python</b></sub>
     </td>
-    <td align="center" width="160">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="80" alt="SQL Server" />
+    <td align="center" width="140">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="70" alt="SQL Server" />
       <br />
       <sub><b>SQL Server</b></sub>
+    </td>
+    <td align="center" width="140">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" height="70" alt="Pandas" />
+      <br />
+      <sub><b>Pandas</b></sub>
+    </td>
+    <td align="center" width="140">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" height="70" alt="Docker" />
+      <br />
+      <sub><b>Docker</b></sub>
     </td>
   </tr>
 </table>
@@ -55,10 +65,10 @@ I build **data-driven solutions**, **reliable integrations**, and **high-perform
 ## 📊 GitHub Analytics & Contributions
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=alefcantero&show_icons=true&theme=transparent&hide_border=true&title_color=00A0FF&icon_color=00A0FF&text_color=ffffff" height="160" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=alefcantero&theme=transparent&hide_border=true&title_color=00A0FF&icon_color=00A0FF&text_color=ffffff&ring=00A0FF" height="160" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=DBCantero&show_icons=true&theme=transparent&hide_border=true&title_color=00A0FF&icon_color=00A0FF&text_color=ffffff" height="160" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DBCantero&theme=transparent&hide_border=true&title_color=00A0FF&icon_color=00A0FF&text_color=ffffff&ring=00A0FF" height="160" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alefcantero&layout=compact&theme=transparent&hide_border=true&title_color=00A0FF&text_color=ffffff" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DBCantero&layout=compact&theme=transparent&hide_border=true&title_color=00A0FF&text_color=ffffff" alt="Top Languages" />
 </p>
