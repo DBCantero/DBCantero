@@ -1,12 +1,12 @@
 <p align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=2500&pause=900&color=00A0FF&center=true&vCenter=true&width=700&lines=print(%22Hello+World!%22);import+pandas+as+pd;SELECT+*+FROM+Data;"
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=2500&pause=900&color=00A0FF&center=true&vCenter=true&width=700&lines=import+pandas+as+pd;df.describe();SELECT+*+FROM+Insights;"
     alt='Python and SQL Typing Animation'
   />
 </p>
 
-<h1 align="center">Backend & Data — Python • SQL Server</h1>
-<p align="center">Building reliable APIs and high-performance data solutions.</p>
+<h1 align="center">Data Professional & Backend — Python • SQL Server</h1>
+<p align="center">Transforming raw data into high-performance solutions and reliable APIs.</p>
 
 <p align="center">
   <a href="https://alefcantero.tech" target="_blank">
@@ -24,12 +24,12 @@
 
 ## 👨‍💻 About me
 
-I'm a **Backend & Data** developer specialized in **Python** and **SQL Server**.  
-I build **scalable APIs**, **reliable integrations**, and **high-performance data layers** (indexing, query tuning, execution plans, profiling, observability).
+I'm a **Data Professional & Backend Developer** specialized in **Python** and **SQL Server**.  
+I build **data-driven solutions**, **reliable integrations**, and **high-performance databases** (indexing, query tuning, execution plans, observability).
 
-- 🔭 **Current Focus:** Developing **AI/Python monetization projects** and building high-performance data pipelines.
-- 📚 **Learning:** Clean Architecture, Advanced Python, Data Engineering.
-- ⚡ **Free time:** Query tuning, Python scripting, Data PoCs.
+- 🔭 **Current Focus:** Building a **SaaS tool for SQL Server monitoring** (query performance & user activity) and developing **AI/Python monetization projects**.
+- 📚 **Learning:** Advanced Data Analysis, Clean Architecture, and Data Engineering.
+- ⚡ **Free time:** Query tuning, exploring datasets with Pandas, and Data PoCs.
 
 ---
 
@@ -60,5 +60,5 @@ I build **scalable APIs**, **reliable integrations**, and **high-performance dat
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/alefcantero/alefcantero/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alefcantero&layout=compact&theme=transparent&hide_border=true&title_color=00A0FF&text_color=ffffff" alt="Top Languages" />
 </p>
