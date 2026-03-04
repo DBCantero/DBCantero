@@ -55,10 +55,10 @@ I build **scalable APIs**, **reliable integrations**, and **high-performance dat
 ## 📊 GitHub Analytics & Contributions
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_GITHUB&show_icons=true&theme=transparent&hide_border=true&title_color=00A0FF&icon_color=00A0FF&text_color=ffffff" height="160" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SEU_USUARIO_GITHUB&theme=transparent&hide_border=true&title_color=00A0FF&icon_color=00A0FF&text_color=ffffff&ring=00A0FF" height="160" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=DBCantero&show_icons=true&theme=transparent&hide_border=true&title_color=00A0FF&icon_color=00A0FF&text_color=ffffff" height="160" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DBCantero&theme=transparent&hide_border=true&title_color=00A0FF&icon_color=00A0FF&text_color=ffffff&ring=00A0FF" height="160" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/SEU_USUARIO_GITHUB/SEU_USUARIO_GITHUB/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
+  <img src="https://raw.githubusercontent.com/DBCantero/DBCantero/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
 </p>
