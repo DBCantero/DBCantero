@@ -65,10 +65,10 @@ I build **data-driven solutions**, **reliable integrations**, and **high-perform
 ## 📊 GitHub Analytics & Contributions
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DBCantero&show_icons=true&theme=transparent&hide_border=true&title_color=00A0FF&icon_color=00A0FF&text_color=ffffff" height="160" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DBCantero&theme=transparent&hide_border=true&title_color=00A0FF&icon_color=00A0FF&text_color=ffffff&ring=00A0FF" height="160" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=alefcantero&show_icons=true&theme=transparent&hide_border=true&title_color=00A0FF&icon_color=00A0FF&text_color=ffffff" height="160" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=alefcantero&theme=transparent&hide_border=true&title_color=00A0FF&icon_color=00A0FF&text_color=ffffff&ring=00A0FF" height="160" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DBCantero&layout=compact&theme=transparent&hide_border=true&title_color=00A0FF&text_color=ffffff" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alefcantero&layout=compact&theme=transparent&hide_border=true&title_color=00A0FF&text_color=ffffff" alt="Top Languages" />
 </p>
