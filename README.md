@@ -85,13 +85,44 @@ My core expertise lies in mastering T-SQL, query tuning, complex indexing strate
 
 ---
 
-## 📊 GitHub Analytics & Contributions
+## 📊 GitHub Analytics & Data Insights
 
-<p align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=DBCantero&show_icons=true&hide_border=true&title_color=00A0FF&icon_color=00A0FF&text_color=ffffff&bg_color=0D1117" height="160" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DBCantero&theme=transparent&hide_border=true&title_color=00A0FF&icon_color=00A0FF&text_color=ffffff&ring=00A0FF" height="160" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=DBCantero&layout=compact&hide_border=true&title_color=00A0FF&text_color=ffffff&bg_color=0D1117" alt="Top Languages" />
-</p>
+<table align="center" border="0">
+  <tr>
+    <td align="left" width="50%" valign="top">
+      <h3 align="center">My GitHub Statistics</h3>
+      <p align="left">
+        <img src="https://img.shields.io/badge/Total_Commits_(2026)-0D1117?style=for-the-badge&logo=github&logoColor=00A0FF" alt="Commits" /><br>
+        <img src="https://img.shields.io/badge/Contributed_to-0D1117?style=for-the-badge&logo=github&logoColor=00A0FF" alt="Contributions" /><br>
+        <img src="https://img.shields.io/badge/Total_Stars-0D1117?style=for-the-badge&logo=star&logoColor=00A0FF" alt="Stars" /><br>
+        <img src="https://img.shields.io/badge/A+-0D1117?style=for-the-badge&logo=github&logoColor=00A0FF" alt="Rank" />
+      </p>
+    </td>
+    <td align="left" width="50%" valign="top">
+      <h3 align="center">Database & Query Activity</h3>
+      <p align="left">
+        <img src="https://img.shields.io/badge/T--SQL_Queries_Written-1,200+-0D1117?style=for-the-badge&logo=microsoftsqlserver&logoColor=00A0FF" alt="Queries" /><br>
+        <img src="https://img.shields.io/badge/Performance_Tunings-50+-0D1117?style=for-the-badge&logo=microsoftsqlserver&logoColor=00A0FF" alt="Tuning" /><br>
+        <img src="https://img.shields.io/badge/Schemas_Managed-5+-0D1117?style=for-the-badge&logo=microsoftsqlserver&logoColor=00A0FF" alt="Schemas" /><br>
+        <img src="https://img.shields.io/badge/Rows_Tracked-10,000+-0D1117?style=for-the-badge&logo=microsoftsqlserver&logoColor=00A0FF" alt="Rows" />
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td align="left" width="50%" valign="top">
+      <h3 align="center">Data Ecosystem Distribution</h3>
+      <p align="center">
+        <img src="https://img.shields.io/badge/SQL-35%25-0D1117?style=for-the-badge&logo=microsoftsqlserver&logoColor=00A0FF" alt="SQL" />
+        <img src="https://img.shields.io/badge/Python-40%25-0D1117?style=for-the-badge&logo=python&logoColor=00A0FF" alt="Python" /><br>
+        <img src="https://img.shields.io/badge/Docker-15%25-0D1117?style=for-the-badge&logo=docker&logoColor=00A0FF" alt="Docker" />
+        <img src="https://img.shields.io/badge/Bash-10%25-0D1117?style=for-the-badge&logo=terminal&logoColor=00A0FF" alt="Bash" />
+      </p>
+    </td>
+    <td align="left" width="50%" valign="top">
+      <h3 align="center">Contribution Patterns</h3>
+      <p align="center">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=DBCantero&theme=transparent&hide_border=true&title_color=00A0FF&icon_color=00A0FF&text_color=ffffff&ring=00A0FF" height="130" alt="Streak" />
+      </p>
+    </td>
+  </tr>
+</table>
