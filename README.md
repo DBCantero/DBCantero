@@ -74,6 +74,15 @@ My core expertise lies in mastering T-SQL, query tuning, complex indexing strate
   </tr>
 </table>
 
+### 🧰 Daily Tools & Environments
+<p align="center">
+  <img src="https://img.shields.io/badge/SSMS-0D1117?style=for-the-badge&logo=microsoftsqlserver&logoColor=00A0FF" alt="SSMS" />
+  <img src="https://img.shields.io/badge/Azure_Data_Studio-0D1117?style=for-the-badge&logo=microsoft&logoColor=00A0FF" alt="Azure Data Studio" />
+  <img src="https://img.shields.io/badge/SQL_Profiler-0D1117?style=for-the-badge&logo=microsoftsqlserver&logoColor=00A0FF" alt="SQL Profiler" />
+  <img src="https://img.shields.io/badge/VS_Code-0D1117?style=for-the-badge&logo=visualstudiocode&logoColor=00A0FF" alt="VS Code" />
+  <img src="https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git&logoColor=00A0FF" alt="Git" />
+</p>
+
 ---
 
 ## 📊 GitHub Analytics & Contributions
