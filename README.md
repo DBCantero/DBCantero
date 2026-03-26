@@ -1,12 +1,12 @@
 <p align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=2500&pause=900&color=00A0FF&center=true&vCenter=true&width=700&lines=import+pandas+as+pd;df.describe();SELECT+*+FROM+Insights;"
-    alt='Python and SQL Typing Animation'
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=2500&pause=900&color=00A0FF&center=true&vCenter=true&width=700&lines=EXEC+sp_WhoIsActive;+SELECT+*+FROM+sys.indexes;+import+pandas+as+pd;"
+    alt='SQL and Python Typing Animation'
   />
 </p>
 
-<h1 align="center">Data Professional & Backend — Python • SQL Server</h1>
-<p align="center">Transforming raw data into high-performance solutions and reliable APIs.</p>
+<h1 align="center">SQL Server Specialist & Data Professional</h1>
+<p align="center">Architecting high-performance databases, optimizing queries, and transforming raw data into reliable solutions.</p>
 
 <p align="center">
   <a href="https://alefcantero.tech" target="_blank">
@@ -24,19 +24,22 @@
 
 ## 👨‍💻 About me
 
-I'm a **Data Professional & Backend Developer** specialized in **Python** and **SQL Server**.  
-I build **data-driven solutions**, **reliable integrations**, and **high-performance databases** (indexing, query tuning, execution plans, observability).
+I'm a **SQL Server Specialist & Data Professional** with a deep focus on database administration, backend architecture, and data engineering. 
 
-- 🔭 **Current Focus:** Building a **SaaS tool for SQL Server monitoring** (query performance & user activity) and developing **AI/Python monetization projects**.
-- 📚 **Learning:** Advanced Data Analysis, Clean Architecture, and Data Engineering.
-- ⚡ **Free time:** Query tuning, exploring datasets with Pandas, and Data PoCs.
+With 8 years of hands-on experience navigating and extracting value from complex architectures like the Linx system, alongside a strong technical foundation built through advanced SQL Server modules at Impacta (under the guidance of Prof. Landry Duailibe), I specialize in **high-performance databases** and **reliable integrations**. 
+
+My core expertise lies in mastering T-SQL, query tuning, complex indexing strategies, and deep execution plan analysis to solve critical bottlenecks.
+
+- 🔭 **Current Focus:** Building a **SaaS tool for SQL Server monitoring** (focusing on query performance, observability, and user activity tracking).
+- 📚 **Learning:** Advanced Query Tuning, Clean Architecture, and Data Engineering pipelines.
+- ⚡ **Free time:** Troubleshooting execution plans, exploring datasets with Pandas, and developing Data PoCs.
 
 ---
 
 ## 🚀 Featured Projects
 
-* **SQL Server Monitoring SaaS:** Developing a high-performance tool to monitor database queries, track data deletions, and analyze user activity to ensure optimal execution plans and observability.
-* **AI & Python Monetization Engine:** Building automated workflows and AI-driven pipelines (including image generation for digital products like e-books) focused on scalable creation and monetization.
+* **SQL Server Monitoring SaaS:** Developing a high-performance tool to monitor database health, track data operations, and analyze user activity. Designed to ensure optimal execution plans, uncover missing indexes, and provide deep observability for DBAs.
+* **AI & Python Monetization Engine:** Building automated workflows where Python interacts seamlessly with databases to drive scalable AI pipelines (including automated digital product generation and distribution).
 
 ---
 
@@ -45,22 +48,26 @@ I build **data-driven solutions**, **reliable integrations**, and **high-perform
 <table align="center" border="0">
   <tr>
     <td align="center" width="140">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" height="70" alt="Python" />
-      <br />
-      <sub><b>Python</b></sub>
-    </td>
-    <td align="center" width="140">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="70" alt="SQL Server" />
+      <br />
       <br />
       <sub><b>SQL Server</b></sub>
     </td>
     <td align="center" width="140">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" height="70" alt="Python" />
+      <br />
+      <br />
+      <sub><b>Python</b></sub>
+    </td>
+    <td align="center" width="140">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" height="70" alt="Pandas" />
+      <br />
       <br />
       <sub><b>Pandas</b></sub>
     </td>
     <td align="center" width="140">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" height="70" alt="Docker" />
+      <br />
       <br />
       <sub><b>Docker</b></sub>
     </td>
