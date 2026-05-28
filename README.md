@@ -90,15 +90,16 @@ Currently expanding my stack by learning **C# and .NET** to build integrated bac
 
 ## 📊 GitHub Stats
 
+<p align="center">
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=DBCantero&theme=react-dark&hide_border=true&color=00A0FF&line=00A0FF&point=00A0FF&area=true&area_color=00A0FF"
+    width="95%"
+    alt="Contribution Graph"
+  />
+</p>
+
 <table align="center" border="0">
   <tr>
-    <td align="center">
-      <img
-        src="https://github-readme-stats.vercel.app/api?username=DBCantero&show_icons=true&theme=transparent&hide_border=true&title_color=00A0FF&icon_color=00A0FF&text_color=ffffff&cache_seconds=1800"
-        height="165"
-        alt="GitHub Stats"
-      />
-    </td>
     <td align="center">
       <img
         src="https://streak-stats.demolab.com?user=DBCantero&theme=transparent&hide_border=true&title_color=00A0FF&icon_color=00A0FF&text_color=ffffff&ring=00A0FF&fire=00A0FF&currStreakLabel=00A0FF"
@@ -106,12 +107,10 @@ Currently expanding my stack by learning **C# and .NET** to build integrated bac
         alt="Streak Stats"
       />
     </td>
-  </tr>
-  <tr>
-    <td colspan="2" align="center">
+    <td align="center">
       <img
         src="https://github-readme-stats.vercel.app/api/top-langs/?username=DBCantero&layout=compact&theme=transparent&hide_border=true&title_color=00A0FF&text_color=ffffff&langs_count=4&cache_seconds=1800"
-        height="130"
+        height="165"
         alt="Top Languages"
       />
     </td>
