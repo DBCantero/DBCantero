@@ -98,23 +98,13 @@ Currently expanding my stack by learning **C# and .NET** to build integrated bac
   />
 </p>
 
-<table align="center" border="0">
-  <tr>
-    <td align="center">
-      <img
-        src="https://streak-stats.demolab.com?user=DBCantero&theme=transparent&hide_border=true&title_color=00A0FF&icon_color=00A0FF&text_color=ffffff&ring=00A0FF&fire=00A0FF&currStreakLabel=00A0FF"
-        height="165"
-        alt="Streak Stats"
-      />
-    </td>
-    <td align="center">
-      <img
-        src="https://github-profile-trophy.vercel.app/?username=DBCantero&theme=onestar&no-frame=true&no-bg=true&column=3&margin-w=10&margin-h=10"
-        alt="Trophies"
-      />
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img
+    src="https://streak-stats.demolab.com?user=DBCantero&theme=transparent&hide_border=true&title_color=00A0FF&icon_color=00A0FF&text_color=ffffff&ring=00A0FF&fire=00A0FF&currStreakLabel=00A0FF"
+    height="165"
+    alt="Streak Stats"
+  />
+</p>
 
 ---
 
