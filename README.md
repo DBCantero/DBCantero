@@ -109,9 +109,8 @@ Currently expanding my stack by learning **C# and .NET** to build integrated bac
     </td>
     <td align="center">
       <img
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=DBCantero&layout=compact&theme=transparent&hide_border=true&title_color=00A0FF&text_color=ffffff&langs_count=4&cache_seconds=1800"
-        height="165"
-        alt="Top Languages"
+        src="https://github-profile-trophy.vercel.app/?username=DBCantero&theme=onestar&no-frame=true&no-bg=true&column=3&margin-w=10&margin-h=10"
+        alt="Trophies"
       />
     </td>
   </tr>
