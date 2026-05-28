@@ -1,19 +1,22 @@
 <p align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=2500&pause=900&color=00A0FF&center=true&vCenter=true&width=700&lines=EXEC+sp_WhoIsActive;+SELECT+*+FROM+sys.indexes;+import+pandas+as+pd;"
-    alt='SQL and Python Typing Animation'
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=2500&pause=900&color=00A0FF&center=true&vCenter=true&width=700&lines=EXEC+sp_WhoIsActive;SELECT+*+FROM+sys.dm_exec_requests;ALTER+INDEX+ALL+ON+Pedidos+REBUILD;CREATE+OR+ALTER+PROCEDURE+sp_Relatorio;"
+    alt="SQL Server Typing Animation"
   />
 </p>
 
-<h1 align="center">SQL Server Specialist & Data Professional</h1>
-<p align="center">Architecting high-performance databases, optimizing queries, and transforming raw data into reliable solutions.</p>
+<h1 align="center">SQL Server Specialist & .NET Developer</h1>
+<p align="center">Architecting high-performance databases, optimizing queries, and building reliable backend integrations with C#.</p>
 
 <p align="center">
   <a href="https://alefcantero.tech" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=Web&logoColor=00A0FF" alt="Portfolio" />
+    <img src="https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=web&logoColor=00A0FF" alt="Portfolio" />
   </a>
   <a href="mailto:suporte@alefcantero.tech" target="_blank">
     <img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=00A0FF" alt="Email" />
+  </a>
+  <a href="https://www.linkedin.com/in/alefcantero" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=00A0FF" alt="LinkedIn" />
   </a>
   <a href="https://instagram.com/alefcantero" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-0D1117?style=for-the-badge&logo=instagram&logoColor=00A0FF" alt="Instagram" />
@@ -24,22 +27,24 @@
 
 ## 👨‍💻 About me
 
-I'm a **SQL Server Specialist & Data Professional** with a deep focus on database administration, backend architecture, and data engineering. 
+I'm a **SQL Server Specialist** with over 8 years of hands-on experience in database administration, query optimization, and backend data solutions — primarily within complex retail ERP environments (Linx Sistemas).
 
-With 8 years of hands-on experience navigating and extracting value from complex architectures like the Linx system, alongside a strong technical foundation built through advanced SQL Server modules at Impacta (under the guidance of Prof. Landry Duailibe), I specialize in **high-performance databases** and **reliable integrations**. 
+My expertise is built on a solid technical foundation from advanced SQL Server training at Impacta (under Prof. Landry Duailibe) and deepened through real-world challenges: execution plan analysis, indexing strategies, and critical bottleneck resolution.
 
-My core expertise lies in mastering T-SQL, query tuning, complex indexing strategies, and deep execution plan analysis to solve critical bottlenecks.
+Currently expanding my stack by learning **C# and .NET** to build integrated backend tools that bridge database logic and application layer — combining T-SQL precision with clean, strongly-typed code.
 
-- 🔭 **Current Focus:** Building a **SaaS tool for SQL Server monitoring** (focusing on query performance, observability, and user activity tracking).
-- 📚 **Learning:** Advanced Query Tuning, Clean Architecture, and Data Engineering pipelines.
-- ⚡ **Free time:** Troubleshooting execution plans, exploring datasets with Pandas, and developing Data PoCs.
+- 🔭 **Current Focus:** Preparing for **DP-300** (Azure Database Administrator) and **DP-900** certifications.
+- 🛠️ **Building:** A SQL Server monitoring tool with observability features for DBAs.
+- 📚 **Learning:** C# fundamentals → OOP → LINQ → Dapper → Entity Framework.
+- ⚡ **Free time:** Analyzing execution plans, studying indexing strategies, and building query practice repositories.
 
 ---
 
 ## 🚀 Featured Projects
 
-* **SQL Server Monitoring SaaS:** Developing a high-performance tool to monitor database health, track data operations, and analyze user activity. Designed to ensure optimal execution plans, uncover missing indexes, and provide deep observability for DBAs.
-* **AI & Python Monetization Engine:** Building automated workflows where Python interacts seamlessly with databases to drive scalable AI pipelines (including automated digital product generation and distribution).
+- **[sqlserver-estudos](https://github.com/DBCantero/sqlserver-estudos)** — Structured SQL Server practice repository covering T-SQL fundamentals, JOINs, CTEs, window functions, stored procedures, performance tuning, and real-world challenges based on Linx ERP scenarios.
+- **[csharp-estudos](https://github.com/DBCantero/csharp-estudos)** — Progressive C# learning repository from fundamentals to SQL Server integration using ADO.NET, Dapper, and Entity Framework Core.
+- **SQL Server Monitoring SaaS** *(in progress)* — High-performance tool to monitor database health, track query performance, surface missing indexes, and provide deep observability for DBAs.
 
 ---
 
@@ -49,80 +54,75 @@ My core expertise lies in mastering T-SQL, query tuning, complex indexing strate
   <tr>
     <td align="center" width="140">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="70" alt="SQL Server" />
-      <br />
-      <br />
+      <br /><br />
       <sub><b>SQL Server</b></sub>
     </td>
     <td align="center" width="140">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" height="70" alt="Python" />
-      <br />
-      <br />
-      <sub><b>Python</b></sub>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" height="70" alt="C#" />
+      <br /><br />
+      <sub><b>C# / .NET</b></sub>
     </td>
     <td align="center" width="140">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" height="70" alt="Pandas" />
-      <br />
-      <br />
-      <sub><b>Pandas</b></sub>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" height="70" alt="Azure" />
+      <br /><br />
+      <sub><b>Azure SQL</b></sub>
     </td>
     <td align="center" width="140">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" height="70" alt="Docker" />
-      <br />
-      <br />
-      <sub><b>Docker</b></sub>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" height="70" alt="Git" />
+      <br /><br />
+      <sub><b>Git</b></sub>
     </td>
   </tr>
 </table>
 
 ### 🧰 Daily Tools & Environments
+
 <p align="center">
   <img src="https://img.shields.io/badge/SSMS-0D1117?style=for-the-badge&logo=microsoftsqlserver&logoColor=00A0FF" alt="SSMS" />
   <img src="https://img.shields.io/badge/Azure_Data_Studio-0D1117?style=for-the-badge&logo=microsoft&logoColor=00A0FF" alt="Azure Data Studio" />
-  <img src="https://img.shields.io/badge/SQL_Profiler-0D1117?style=for-the-badge&logo=microsoftsqlserver&logoColor=00A0FF" alt="SQL Profiler" />
+  <img src="https://img.shields.io/badge/Visual_Studio_2022-0D1117?style=for-the-badge&logo=visualstudio&logoColor=00A0FF" alt="Visual Studio" />
   <img src="https://img.shields.io/badge/VS_Code-0D1117?style=for-the-badge&logo=visualstudiocode&logoColor=00A0FF" alt="VS Code" />
+  <img src="https://img.shields.io/badge/SQL_Profiler-0D1117?style=for-the-badge&logo=microsoftsqlserver&logoColor=00A0FF" alt="SQL Profiler" />
   <img src="https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git&logoColor=00A0FF" alt="Git" />
 </p>
 
 ---
 
-## 📊 GitHub Analytics & Data Insights
+## 📊 GitHub Stats
 
 <table align="center" border="0">
   <tr>
-    <td align="left" width="50%" valign="top">
-      <h3 align="center">My GitHub Statistics</h3>
-      <p align="left">
-        <img src="https://img.shields.io/badge/Total_Commits_(2026)-0D1117?style=for-the-badge&logo=github&logoColor=00A0FF" alt="Commits" /><br>
-        <img src="https://img.shields.io/badge/Contributed_to-0D1117?style=for-the-badge&logo=github&logoColor=00A0FF" alt="Contributions" /><br>
-        <img src="https://img.shields.io/badge/Total_Stars-0D1117?style=for-the-badge&logo=star&logoColor=00A0FF" alt="Stars" /><br>
-        <img src="https://img.shields.io/badge/A+-0D1117?style=for-the-badge&logo=github&logoColor=00A0FF" alt="Rank" />
-      </p>
+    <td align="center">
+      <img
+        src="https://github-readme-stats.vercel.app/api?username=DBCantero&show_icons=true&theme=transparent&hide_border=true&title_color=00A0FF&icon_color=00A0FF&text_color=ffffff"
+        height="165"
+        alt="GitHub Stats"
+      />
     </td>
-    <td align="left" width="50%" valign="top">
-      <h3 align="center">Database & Query Activity</h3>
-      <p align="left">
-        <img src="https://img.shields.io/badge/T--SQL_Queries_Written-1,200+-0D1117?style=for-the-badge&logo=microsoftsqlserver&logoColor=00A0FF" alt="Queries" /><br>
-        <img src="https://img.shields.io/badge/Performance_Tunings-50+-0D1117?style=for-the-badge&logo=microsoftsqlserver&logoColor=00A0FF" alt="Tuning" /><br>
-        <img src="https://img.shields.io/badge/Schemas_Managed-5+-0D1117?style=for-the-badge&logo=microsoftsqlserver&logoColor=00A0FF" alt="Schemas" /><br>
-        <img src="https://img.shields.io/badge/Rows_Tracked-10,000+-0D1117?style=for-the-badge&logo=microsoftsqlserver&logoColor=00A0FF" alt="Rows" />
-      </p>
+    <td align="center">
+      <img
+        src="https://github-readme-streak-stats.herokuapp.com/?user=DBCantero&theme=transparent&hide_border=true&title_color=00A0FF&icon_color=00A0FF&text_color=ffffff&ring=00A0FF&fire=00A0FF&currStreakLabel=00A0FF"
+        height="165"
+        alt="Streak Stats"
+      />
     </td>
   </tr>
   <tr>
-    <td align="left" width="50%" valign="top">
-      <h3 align="center">Data Ecosystem Distribution</h3>
-      <p align="center">
-        <img src="https://img.shields.io/badge/SQL-35%25-0D1117?style=for-the-badge&logo=microsoftsqlserver&logoColor=00A0FF" alt="SQL" />
-        <img src="https://img.shields.io/badge/Python-40%25-0D1117?style=for-the-badge&logo=python&logoColor=00A0FF" alt="Python" /><br>
-        <img src="https://img.shields.io/badge/Docker-15%25-0D1117?style=for-the-badge&logo=docker&logoColor=00A0FF" alt="Docker" />
-        <img src="https://img.shields.io/badge/Bash-10%25-0D1117?style=for-the-badge&logo=terminal&logoColor=00A0FF" alt="Bash" />
-      </p>
-    </td>
-    <td align="left" width="50%" valign="top">
-      <h3 align="center">Contribution Patterns</h3>
-      <p align="center">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=DBCantero&theme=transparent&hide_border=true&title_color=00A0FF&icon_color=00A0FF&text_color=ffffff&ring=00A0FF" height="130" alt="Streak" />
-      </p>
+    <td colspan="2" align="center">
+      <img
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=DBCantero&layout=compact&theme=transparent&hide_border=true&title_color=00A0FF&text_color=ffffff&langs_count=4"
+        height="130"
+        alt="Top Languages"
+      />
     </td>
   </tr>
 </table>
+
+---
+
+## 🏅 Certifications in Progress
+
+<p align="center">
+  <img src="https://img.shields.io/badge/DP--900_Azure_Data_Fundamentals-in_progress-0D1117?style=for-the-badge&logo=microsoft&logoColor=00A0FF" alt="DP-900" />
+  <img src="https://img.shields.io/badge/DP--300_Azure_Database_Administrator-in_progress-0D1117?style=for-the-badge&logo=microsoft&logoColor=00A0FF" alt="DP-300" />
+</p>
