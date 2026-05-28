@@ -94,14 +94,14 @@ Currently expanding my stack by learning **C# and .NET** to build integrated bac
   <tr>
     <td align="center">
       <img
-        src="https://github-readme-stats.vercel.app/api?username=DBCantero&show_icons=true&theme=transparent&hide_border=true&title_color=00A0FF&icon_color=00A0FF&text_color=ffffff"
+        src="https://github-readme-stats.vercel.app/api?username=DBCantero&show_icons=true&theme=transparent&hide_border=true&title_color=00A0FF&icon_color=00A0FF&text_color=ffffff&cache_seconds=1800"
         height="165"
         alt="GitHub Stats"
       />
     </td>
     <td align="center">
       <img
-        src="https://github-readme-streak-stats.herokuapp.com/?user=DBCantero&theme=transparent&hide_border=true&title_color=00A0FF&icon_color=00A0FF&text_color=ffffff&ring=00A0FF&fire=00A0FF&currStreakLabel=00A0FF"
+        src="https://streak-stats.demolab.com?user=DBCantero&theme=transparent&hide_border=true&title_color=00A0FF&icon_color=00A0FF&text_color=ffffff&ring=00A0FF&fire=00A0FF&currStreakLabel=00A0FF"
         height="165"
         alt="Streak Stats"
       />
@@ -110,7 +110,7 @@ Currently expanding my stack by learning **C# and .NET** to build integrated bac
   <tr>
     <td colspan="2" align="center">
       <img
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=DBCantero&layout=compact&theme=transparent&hide_border=true&title_color=00A0FF&text_color=ffffff&langs_count=4"
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=DBCantero&layout=compact&theme=transparent&hide_border=true&title_color=00A0FF&text_color=ffffff&langs_count=4&cache_seconds=1800"
         height="130"
         alt="Top Languages"
       />
